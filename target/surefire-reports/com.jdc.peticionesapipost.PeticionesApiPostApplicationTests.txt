@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.jdc.peticionesapipost.PeticionesApiPostApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.07 s -- in com.jdc.peticionesapipost.PeticionesApiPostApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.10 s -- in com.jdc.peticionesapipost.PeticionesApiPostApplicationTests
